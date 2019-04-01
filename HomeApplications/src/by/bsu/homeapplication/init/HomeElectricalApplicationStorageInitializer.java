@@ -33,12 +33,12 @@ public class HomeElectricalApplicationStorageInitializer {
                     case LAMP:
                         storage.addHomeElectricalApplication(homeElectricalApplicationCreator.createLamp());
                         break;
-                    case ROUTER:
+                    case ROUTER: {
                         storage.addHomeElectricalApplication(homeElectricalApplicationCreator.createRouter());
                         break;
-
-                        default:
-                            throw new InvalidDataException("There is no such home electrical application");
+                    }
+                    default:
+                        throw new InvalidDataException("There is no such home electrical application");
                 }
             } catch (InvalidDataException e) {
                 LOGGER.log(Level.ERROR, "String contain not valid home electrical application", e);

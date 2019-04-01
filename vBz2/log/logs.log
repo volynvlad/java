@@ -685,3 +685,5 @@ com.company.gift.exception.InvalidDataException: Not valid sweetType
 	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:?]
 10:35:18.679 [main] FATAL com.company.gift.read.SweetReader - java.io.FileNotFoundException: / (Is a directory)
 20:04:21.441 [main] FATAL com.company.gift.read.SweetReader - java.io.FileNotFoundException: / (Is a directory)
+21:56:02.058 [main] FATAL com.company.gift.read.SweetReader - java.io.FileNotFoundException: data\sweets.txt (No such file or directory)
+21:57:12.910 [main] FATAL com.company.gift.read.SweetReader - java.io.FileNotFoundException: data\sweets.txt (No such file or directory)

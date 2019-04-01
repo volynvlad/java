@@ -18,7 +18,7 @@ public class SweetFinderTest {
     public static void initTest() throws InvalidDataException {
         SweetReader sr = new SweetReader();
         SweetStorageInitializer sweetStorageInitializer = new SweetStorageInitializer();
-        sweetStorageInitializer.init(sr.read("data\\sweets.txt"));
+        sweetStorageInitializer.init(sr.read("data/sweets.txt"));
     }
 
     @Test

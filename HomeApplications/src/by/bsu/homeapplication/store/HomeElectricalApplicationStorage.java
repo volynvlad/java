@@ -38,6 +38,10 @@ public class HomeElectricalApplicationStorage {
         return homeElectricalApplications;
     }
 
+    public void setHomeElectricalApplications(LinkedList<HomeElectricalApplication> homeElectricalApplications) {
+        this.homeElectricalApplications = homeElectricalApplications;
+    }
+
     public int countOfHomeElectricalApplications() {
         return this.homeElectricalApplications.size();
     }

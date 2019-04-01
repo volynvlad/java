@@ -19,13 +19,14 @@ public class HomeElectricalApplicationFinderTest {
         HomeElectricalApplicationReader reader = new HomeElectricalApplicationReader();
         HomeElectricalApplicationStorageInitializer initializer = new HomeElectricalApplicationStorageInitializer();
         initializer.init(reader.read("data/applications.txt"));
-        HomeElectricalApplicationStorage storage = HomeElectricalApplicationStorage.getInstance();
+
     }
 
     @Test
     public void sortByConsuming() throws StorageException, IncorrectValueException {
+        HomeElectricalApplicationStorage storage = HomeElectricalApplicationStorage.getInstance();
         double expected = 50;
-        double actual = new HomeElectricalApplicationFinder().findByConsuming(new HomeElectricalApplicationConnector().connect(5),49, 51).getFirst().getElectricityConsuming();
+        double actual = new HomeElectricalApplicationFinder().findByConsuming(new HomeElectricalApplicationConnector().connect(10),49, 51).getFirst().getElectricityConsuming();
         Assert.assertEquals(expected, actual, 0.01);
     }
 }

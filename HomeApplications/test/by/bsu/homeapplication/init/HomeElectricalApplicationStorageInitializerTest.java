@@ -13,8 +13,8 @@ public class HomeElectricalApplicationStorageInitializerTest {
     public void init() throws InvalidDataException {
         LinkedList<String> strings = new LinkedList<>();
         strings.add("type=QQQ id=1 name=atlant producer=russia electricalconsuming=55 connected=connected");
-        HomeElectricalApplicationStorageInitializer haesi = new HomeElectricalApplicationStorageInitializer();
-        HomeElectricalApplicationStorage storage = haesi.init(strings);
+        HomeElectricalApplicationStorageInitializer initializer = new HomeElectricalApplicationStorageInitializer();
+        HomeElectricalApplicationStorage storage = initializer.init(strings);
 
         int expected = 1;
         int actual = storage.countOfHomeElectricalApplications();
