@@ -1,0 +1,10 @@
+type=Glazed_Candy id=1 name=alenka weight=25 sugar=15 producer=russia taste=sugary frosting=milk
+type=Lollipop id=2 name=petya weight=78 sugar=46 producer=poland form=DISK taste=sugary
+type=Wafer id=3 name=coca weight=15 sugar=13 producer=usa aroma=cola
+type=Lollipop id=4 name=chups weight=78 sugar=46 producer=belarus form=SPHERE taste=sugary
+type=Lollipop id=5 name=gosha weight=70 sugar=41 producer=usa form=COCKEREL taste=sour
+type=Lollipop id=6 name=chups weight=34 sugar=25 producer=russia form=SPHERE taste=bitter
+type=Wafer id=7 name=gosha weight=45 sugar=18 producer=belarus aroma=chocolate
+type=Wafer id=8 name=vitba weight=40 sugar=17 producer=belarus aroma=dusches
+type=Wafer id=9 name=gosha weight=44 sugar=13 producer=belarus aroma=chocolate
+type=Glazed_Candy id=10 name=stolchny weight=100 sugar=56 producer=belarus taste=sugary frosting=milk

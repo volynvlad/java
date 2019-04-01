@@ -1,0 +1,2 @@
+type=Glazed_Candy id=1 name=alenka weight=25 sugar=15 producer=russia taste=sugary frosting=milk
+type=Lollipop id=2 name=petya weight=78 sugar=46 producer=poland form=DISK taste=sugary
