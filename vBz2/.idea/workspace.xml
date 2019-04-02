@@ -21,23 +21,11 @@
       <change beforePath="$PROJECT_DIR$/../../lab/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/src/main/java/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeApplications/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/data/applications.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/data/applications.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeApplications/log/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/log/logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/out/production/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationSummer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/production/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationSummer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationFinderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationFinderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationSorterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationSorterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeApplications/out/production/HomeApplications/by/bsu/homeapplication/entity/HomeElectricalApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/production/HomeApplications/by/bsu/homeapplication/entity/HomeElectricalApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/store/HomeElectricalApplicationStorageConnectedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/store/HomeElectricalApplicationStorageConnectedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/store/HomeElectricalApplicationStorageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/test/HomeApplications/by/bsu/homeapplication/store/HomeElectricalApplicationStorageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/src/by/bsu/homeapplication/action/HomeElectricalApplicationSummer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/src/by/bsu/homeapplication/action/HomeElectricalApplicationSummer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/action/HomeElectricalApplicationConnectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/action/HomeElectricalApplicationConnectorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/action/HomeElectricalApplicationFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/action/HomeElectricalApplicationFinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/action/HomeElectricalApplicationSorterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/action/HomeElectricalApplicationSorterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeApplications/src/by/bsu/homeapplication/entity/HomeElectricalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/src/by/bsu/homeapplication/entity/HomeElectricalApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/store/HomeElectricalApplicationStorageConnectedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/store/HomeElectricalApplicationStorageConnectedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/store/HomeElectricalApplicationStorageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/test/by/bsu/homeapplication/store/HomeElectricalApplicationStorageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../progsPython/computationalGeometry/labFirst/convexpolygon.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../progsPython/computationalGeometry/labFirst/drawconvexpolygon.py" beforeDir="false" />
@@ -236,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="67" />
     <option name="y" value="34" />
     <option name="width" value="917" />
@@ -728,6 +716,7 @@
       <workItem from="1554138058858" duration="7697000" />
       <workItem from="1554176110181" duration="1187000" />
       <workItem from="1554185930363" duration="638000" />
+      <workItem from="1554188644289" duration="519000" />
     </task>
     <servers />
   </component>
@@ -764,11 +753,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104259000" />
+    <option name="totallyTimeSpent" value="104778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.21125144" />
       <window_info id="Structure" order="1" weight="0.24986088" />

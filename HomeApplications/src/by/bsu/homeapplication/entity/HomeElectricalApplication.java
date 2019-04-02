@@ -19,6 +19,10 @@ public abstract class HomeElectricalApplication {
         this.type = type;
     }
 
+    public HomeElectricalApplication() {
+
+    }
+
     public long getHomeAppId() {
         return homeAppId;
     }
