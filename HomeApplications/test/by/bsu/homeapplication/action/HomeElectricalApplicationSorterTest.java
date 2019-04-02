@@ -30,5 +30,8 @@ public class HomeElectricalApplicationSorterTest {
         HomeElectricalApplication application1 = storage.takeHomeElectricalApplication();
         HomeElectricalApplication application2 = storage.takeHomeElectricalApplication();
         assertTrue(application1.getElectricityConsuming() <= application2.getElectricityConsuming());
+        while (!storage.isEmpty()) {
+            storage.takeHomeElectricalApplication();
+        }
     }
 }

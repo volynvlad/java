@@ -26,7 +26,7 @@ public class HomeElectricalApplicationStorageConnectedTest {
         HomeElectricalApplicationConnector connector = new HomeElectricalApplicationConnector();
         HomeElectricalApplicationStorageConnected storage = connector.connected();
 
-        int expected = 1;
+        int expected = 3;
         int result = storage.countOfHomeElectricalApplications();
 
         assertEquals(expected, result);

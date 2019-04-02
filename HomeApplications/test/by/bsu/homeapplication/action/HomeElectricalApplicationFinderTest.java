@@ -8,13 +8,14 @@ import by.bsu.homeapplication.read.HomeElectricalApplicationReader;
 import by.bsu.homeapplication.store.HomeElectricalApplicationStorage;
 import org.junit.Assert;
 import org.junit.BeforeClass;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 public class HomeElectricalApplicationFinderTest {
 
-    @BeforeClass
+    @BeforeAll
     public static void initTest() throws InvalidDataException {
         HomeElectricalApplicationReader reader = new HomeElectricalApplicationReader();
         HomeElectricalApplicationStorageInitializer initializer = new HomeElectricalApplicationStorageInitializer();
@@ -28,5 +29,8 @@ public class HomeElectricalApplicationFinderTest {
         double expected = 50;
         double actual = new HomeElectricalApplicationFinder().findByConsuming(new HomeElectricalApplicationConnector().connect(10),49, 51).getFirst().getElectricityConsuming();
         Assert.assertEquals(expected, actual, 0.01);
+        while (!storage.isEmpty()) {
+            storage.takeHomeElectricalApplication();
+        }
     }
 }

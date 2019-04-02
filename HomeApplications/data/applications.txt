@@ -1,10 +1,10 @@
 type=fridge id=1 name=samsung producer=china electricalconsuming=200 connected=connected
-type=lamp id=2 name=supra producer=usa electricalconsuming=50 connected=disconnected
+type=lamp id=2 name=supra producer=usa electricalconsuming=50 connected=connected
 type=router id=3 name=acer producer=china electricalconsuming=40 connected=connected
 type=lamp id=4 name=philips producer=usa electricalconsuming=150 connected=disconnected
 type=fridge id=5 name=atlant producer=belarus electricalconsuming=200 connected=connected
-type=router id=6 name=samsung producer=china electricalconsuming=55 connected=connected
+type=router id=6 name=samsung producer=china electricalconsuming=55 connected=disconnected
 type=fridge id=7 name=samsung producer=russia electricalconsuming=250 connected=disconnected
 type=lamp id=8 name=xiaomi producer=china electricalconsuming=70 connected=disconnected
 type=fridge id=9 name=lg producer=poland electricalconsuming=200 connected=connected
-type=router id=10 name=asus producer=poland electricalconsuming=30 connected=connected
+type=router id=10 name=asus producer=poland electricalconsuming=30 connected=disconnected

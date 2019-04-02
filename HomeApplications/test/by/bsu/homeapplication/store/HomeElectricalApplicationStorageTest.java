@@ -27,10 +27,10 @@ class HomeElectricalApplicationStorageTest {
     @Test
     public void countOfHomeElectricalApplications() {
         HomeElectricalApplicationStorage storage = HomeElectricalApplicationStorage.getInstance();
-        int expected = 10;
+        int expected = 17;
         int result = storage.countOfHomeElectricalApplications();
 
-        assertNotEquals(expected, result);
+        assertEquals(expected, result);
 
     }
 

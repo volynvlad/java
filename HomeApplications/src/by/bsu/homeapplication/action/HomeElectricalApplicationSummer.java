@@ -10,14 +10,14 @@ public class HomeElectricalApplicationSummer {
     LinkedList<HomeElectricalApplication> apps = new LinkedList<HomeElectricalApplication>();
 
     public void connect(HomeElectricalApplication h) {
-        if (h.getConnected().equals("CONNECTED")) {
+        if (h.getConnected().equalsIgnoreCase("CONNECTED")) {
             apps.add(h);
             totalConsuming += h.getElectricityConsuming();
         }
     }
 
     public void disconnect(HomeElectricalApplication h) {
-        if (h.getConnected().equals("DISCONNECTED")) {
+        if (h.getConnected().equalsIgnoreCase("DISCONNECTED")) {
             apps.add(h);
             totalConsuming -= h.getElectricityConsuming();
         }
