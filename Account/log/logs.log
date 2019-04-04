@@ -1,0 +1,4 @@
+19:48:04.846 [main] FATAL by.bsu.account.reader.OperationReader - java.io.FileNotFoundException: date\input.txt (No such file or directory)
+19:48:04.854 [main] ERROR Main - No such file: "date\input.txt"
+19:48:17.182 [main] FATAL by.bsu.account.reader.OperationReader - java.io.FileNotFoundException: date/input.txt (No such file or directory)
+19:48:17.186 [main] ERROR Main - No such file: "date/input.txt"

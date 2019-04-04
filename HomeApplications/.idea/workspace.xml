@@ -16,15 +16,40 @@
       <change afterPath="$PROJECT_DIR$/../../progsAndroid/BackChanger/app/src/main/res/xml/file_provider_paths.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../progsAndroid/CriminalIntent/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../progsAndroid/GeoQuiz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/data/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/lib/junit-jupiter-api-5.5.0-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/lib/junit-platform-commons-1.5.0-M1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/lib/log4j-api-2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/lib/log4j-core-2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/log/logs.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/src/by/bsu/account/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/src/by/bsu/account/entity/OperationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/src/by/bsu/account/exception/InvalidFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/src/by/bsu/account/reader/AccountReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Account/src/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../innerClass/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../innerClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vAz17_AnonimClass/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../services/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/src/main/java/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeApplications/by/bsu/homeapplication/entity/HomeElectricalApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeApplications/by/bsu/homeapplication/entity/HomeElectricalApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Account/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HomeApplications/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsu/homeapplication/entity/HomeElectricalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsu/homeapplication/entity/HomeElectricalApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java4sem/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java4sem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java4sem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java4sem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vBz2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vBz2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../progsPython/computationalGeometry/labFirst/convexpolygon.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../progsPython/computationalGeometry/labFirst/drawconvexpolygon.py" beforeDir="false" />
@@ -47,10 +72,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/read/HomeElectricalApplicationReaderTest.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+            <state relative-caret-position="108">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,10 +84,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/parser/HomeElectricalApplicationParserTest.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationConnectorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="234">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/read/HomeElectricalApplicationReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="432">
               <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,26 +126,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/store/HomeElectricalApplicationStorage.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Fridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="117" selection-start-line="3" selection-start-column="117" selection-end-line="3" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationSorter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#1377#1378#0" expanded="true" />
-                <element signature="e#1426#1427#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationConnector.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/valid/HomeElectricalApplicationValidor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="612">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,39 +159,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/parser/HomeElectricalApplicationParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/HomeElectricalApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/store/HomeElectricalApplicationStorageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/valid/HomeElectricalApplicationValidorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="276">
+              <caret line="51" column="24" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,7 +203,6 @@
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Fridge.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Lamp.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Router.java" />
-        <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/summery/HomeElectricalApplicationSummery.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/summery/HomeElectricalApplicationIsConnected.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationFindByConsuming.java" />
@@ -204,7 +226,6 @@
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationSorter.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/read/HomeElectricalApplicationReader.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/utils/HomeElectricalApplicationTags.java" />
-        <option value="$PROJECT_DIR$/data/applications.txt" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationSummer.java" />
         <option value="$PROJECT_DIR$/data/application2.txt" />
         <option value="$PROJECT_DIR$/test/by/bsu/homeapplication/read/HomeElectricalApplicationReaderTest.java" />
@@ -217,10 +238,12 @@
         <option value="$PROJECT_DIR$/test/by/bsu/homeapplication/store/HomeElectricalApplicationStorageTest.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/entity/HomeElectricalApplication.java" />
         <option value="$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.java" />
+        <option value="$PROJECT_DIR$/data/applications.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="67" />
     <option name="y" value="34" />
     <option name="width" value="917" />
@@ -249,6 +272,11 @@
             <path>
               <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,6 +291,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
               <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="compare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
@@ -276,7 +318,49 @@
               <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
               <item name="init" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="read" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="valid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
@@ -295,6 +379,41 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
               <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="compare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="read" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeApplications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeApplications" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="homeapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="valid" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,7 +428,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554189163561" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554203136870" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -319,6 +438,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -484,23 +604,15 @@
       <workItem from="1554135189396" duration="10651000" />
       <workItem from="1554176112089" duration="3956000" />
       <workItem from="1554185972896" duration="639000" />
-      <workItem from="1554188645922" duration="505000" />
+      <workItem from="1554188645922" duration="770000" />
+      <workItem from="1554198035166" duration="4265000" />
+      <workItem from="1554367897222" duration="438000" />
+      <workItem from="1554390261669" duration="28000" />
+      <workItem from="1554390440011" duration="200000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="by_bsu_homeapplication_in_HomeApplications - 2019.04.02 at 07h 37m 06s.xml">
-      <configuration name="by.bsu.homeapplication in HomeApplications" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="by_bsu_homeapplication_in_HomeApplications - 2019.04.02 at 07h 39m 19s.xml">
-      <configuration name="by.bsu.homeapplication in HomeApplications" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="by_bsu_homeapplication_in_HomeApplications - 2019.04.02 at 07h 40m 00s.xml">
-      <configuration name="by.bsu.homeapplication in HomeApplications" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="by_bsu_homeapplication_in_HomeApplications - 2019.04.02 at 09h 25m 28s.xml">
-      <configuration name="by.bsu.homeapplication in HomeApplications" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="by_bsu_homeapplication_in_HomeApplications - 2019.04.02 at 09h 27m 02s.xml">
       <configuration name="by.bsu.homeapplication in HomeApplications" configurationId="JUnit" />
     </history-entry>
@@ -519,15 +631,27 @@
     <history-entry file="HomeElectricalApplicationSummerTest - 2019.04.02 at 10h 07m 09s.xml">
       <configuration name="HomeElectricalApplicationSummerTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HomeElectricalApplicationSummerTest - 2019.04.02 at 10h 12m 22s.xml">
+      <configuration name="HomeElectricalApplicationSummerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="by_bsu_homeapplication_in_HomeApplications - 2019.04.02 at 10h 12m 34s.xml">
+      <configuration name="by.bsu.homeapplication in HomeApplications" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="by_bsu_homeapplication_in_HomeApplications - 2019.04.02 at 13h 36m 43s.xml">
+      <configuration name="by.bsu.homeapplication in HomeApplications" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="by_bsu_homeapplication_in_HomeApplications - 2019.04.02 at 13h 47m 14s.xml">
+      <configuration name="by.bsu.homeapplication in HomeApplications" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53308000" />
+    <option name="totallyTimeSpent" value="58504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="32" width="1853" height="1048" extended-state="6" />
+    <frame x="67" y="34" width="917" height="1046" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19476905" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43205574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -537,7 +661,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32925472" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32925472" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3637375" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.36818686" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -557,37 +681,6 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20089038" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32925472" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32925472" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39933258" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -602,13 +695,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/exception/StorageException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/exception/IncorrectValueException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
@@ -638,41 +724,46 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/HomeElectricalApplicationFactory.java" />
+    <entry file="file://$PROJECT_DIR$/HomeApplications.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/create/HomeElectricalApplicationCreatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/data/application2.txt" />
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/parser/HomeElectricalApplicationParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="48">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Router.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/HomeElectricalApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="312">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Lamp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="72">
           <caret line="3" column="115" selection-start-line="3" selection-start-column="115" selection-end-line="3" selection-end-column="115" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Fridge.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/read/HomeElectricalApplicationReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="117" selection-start-line="3" selection-start-column="117" selection-end-line="3" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeApplications.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/create/HomeElectricalApplicationCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="720">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -681,45 +772,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Type.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="96">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/exception/IncorrectValueException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="41">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/valid/HomeElectricalApplicationValidor.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/utils/HomeElectricalApplicationTags.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/create/HomeElectricalApplicationCreatorTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/read/HomeElectricalApplicationReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/store/HomeElectricalApplicationStorageConnected.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
+        <state relative-caret-position="-83">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -731,81 +815,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/parser/HomeElectricalApplicationParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="90" column="34" lean-forward="true" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/utils/HomeElectricalApplicationTags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/application2.txt" />
-    <entry file="file://$PROJECT_DIR$/data/applications1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationFinderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="408">
           <caret line="17" column="112" selection-start-line="17" selection-start-column="112" selection-end-line="17" selection-end-column="112" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationSorterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationConnectorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -816,33 +832,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/read/HomeElectricalApplicationReaderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Router.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/parser/HomeElectricalApplicationParserTest.java">
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationSorterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -860,27 +867,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationConnector.java">
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/store/HomeElectricalApplicationStorageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="162">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/valid/HomeElectricalApplicationValidorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/store/HomeElectricalApplicationStorageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationConnector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/valid/HomeElectricalApplicationValidorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="288">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -889,42 +906,118 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationSummer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="486">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/create/HomeElectricalApplicationCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/applications1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/applications.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          <caret line="9" column="89" lean-forward="true" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/HomeElectricalApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationConnectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/action/HomeElectricalApplicationSummerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="162">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/read/HomeElectricalApplicationReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsu/homeapplication/init/HomeElectricalApplicationStorageInitializerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/entity/Fridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="117" selection-start-line="3" selection-start-column="117" selection-end-line="3" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/action/HomeElectricalApplicationSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/valid/HomeElectricalApplicationValidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/homeapplication/parser/HomeElectricalApplicationParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="51" column="24" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
