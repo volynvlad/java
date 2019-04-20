@@ -150,7 +150,7 @@ public class Account implements Serializable, Cloneable{
             if (res.length() == 0) {
                 res.append("no finished\n");
             }
-            return "Attraction {\n" +
+            return "Operation {\n" +
                     "id = " + operationID + "\n" +
                     "type = " + type.toString() + "\n" +
                     "operation time: \n" + res.toString() +
@@ -158,4 +158,92 @@ public class Account implements Serializable, Cloneable{
                     "\n}";
         }
     }// end OperationInfo
+
+    public static class PersonInfo {
+        String name;
+        String surname;
+        int age;
+        String personalKey;
+
+        public PersonInfo(String name, String surname, int age, String personalKey) {
+            this.name = name;
+            this.surname = surname;
+            this.age = age;
+            this.personalKey = personalKey;
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
+            this.name = name;
+        }
+
+        public String getSurname() {
+            return surname;
+        }
+
+        public void setSurname(String surname) {
+            this.surname = surname;
+        }
+
+        public int getAge() {
+            return age;
+        }
+
+        public void setAge(int age) {
+            this.age = age;
+        }
+
+        public String getPersonalKey() {
+            return personalKey;
+        }
+
+        public void setPersonalKey(String personalKey) {
+            this.personalKey = personalKey;
+        }
+
+        @Override
+        public boolean equals(Object obj) {
+            if (this == obj) {
+                return true;
+            }
+
+            if (obj == null || getClass() != obj.getClass()) return false;
+            PersonInfo that = (PersonInfo) obj;
+
+            return name.equals(that.name) &&
+                    surname.equals(that.surname) &&
+                    personalKey.equals(that.personalKey) &&
+                    Double.compare(that.age, age) == 0;
+        }
+
+        @Override
+        public int hashCode() {
+            return super.hashCode();
+        }
+
+        @Override
+        protected Object clone() throws CloneNotSupportedException {
+            OperationInfo copy = null;
+            try {
+                copy = (OperationInfo)super.clone();
+            } catch (CloneNotSupportedException e) {
+                e.printStackTrace();
+            }
+
+            return copy;
+        }
+
+        @Override
+        public String toString() {
+            return "Personal information {\n" +
+                    "name = " + name + "\n" +
+                    "surname = " + surname + "\n" +
+                    "age \n" + age +
+                    "personal key = " + personalKey +
+                    "\n}";
+        }
+    } // end PersonalInfo
 }

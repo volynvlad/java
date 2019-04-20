@@ -68,14 +68,12 @@ public class OperationParse {
                 throw new InvalidDataException("Not valid operation! Error in time!");
             }
         }catch (InputMismatchException e){
-            throw new InvalidDataException("time format ron!");
+            throw new InvalidDataException("time format wrong!");
         }
         return listTime;
     }
 
     public static OperationType takeOperationType(String str) throws InvalidDataException {
-        OperationType type;
-
         if(OperationValidator.isOperationValid(str)) {
             int index = str.toUpperCase().indexOf(OperationTag.TYPE) + OperationTag.TYPE.length();
             Scanner scanner = new Scanner(str.substring(index));

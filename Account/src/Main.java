@@ -39,16 +39,10 @@ public class Main {
                     System.out.println(o.toString());
                 }
 
-
-
-            } catch (DateTimeException e) {
-                LOGGER.log(Level.ERROR, e.getMessage());
-            } catch (InvalidFileException e){
-                LOGGER.log(Level.ERROR, e.getMessage());
-            } catch (InvalidDataException e){
+            } catch (DateTimeException | InvalidFileException | InvalidDataException e) {
                 LOGGER.log(Level.ERROR, e.getMessage());
             }
 
 
-    }
+        }
 }
