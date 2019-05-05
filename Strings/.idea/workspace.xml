@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f81579c4-a7f4-4c20-8b62-ef48c3e6c4b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/divide/Divider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Paragraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/entity/PunctuationMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Symbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/exception/IncorrectValueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/util/IsWordInParagraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/util/IsWordInSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsu/secondlab/util/ParagraphUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/log/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/log/logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeApplications/out/production/HomeApplications/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeApplications/out/production/HomeApplications/by/bsu/homeapplication/compare/ConsumingHomeElectricalApplicationComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java4sem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java4sem/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f81579c4-a7f4-4c20-8b62-ef48c3e6c4b1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bsu/secondlab/entity/Symbol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="318">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#375#376#0" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
@@ -101,12 +85,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/bsu/secondlab/entity/Word.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+            <state relative-caret-position="257">
+              <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
               <folding>
                 <element signature="e#239#240#0" expanded="true" />
                 <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#1252#1253#0" expanded="true" />
+                <element signature="e#1144#1145#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,12 +152,12 @@
         <option value="$PROJECT_DIR$/src/by/bsu/secondlab/exception/IncorrectValueException.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/secondlab/util/IsWordInParagraph.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/secondlab/util/ParagraphUtils.java" />
-        <option value="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Symbol.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Paragraph.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Sequence.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/secondlab/util/IsWordInSequence.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/secondlab/divide/Divider.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Symbol.java" />
         <option value="$PROJECT_DIR$/src/by/bsu/secondlab/entity/Word.java" />
       </list>
     </option>
@@ -257,8 +241,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557058645139" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java4sem" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557058822418" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeApplications" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -309,12 +293,12 @@
       <workItem from="1556857410434" duration="2439000" />
       <workItem from="1556951761108" duration="91000" />
       <workItem from="1556952794716" duration="1587000" />
-      <workItem from="1557041178444" duration="11956000" />
+      <workItem from="1557041178444" duration="12250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51443000" />
+    <option name="totallyTimeSpent" value="51737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,7 +321,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5150167" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5150167" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,7 +329,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32925472" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -469,17 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsu/secondlab/entity/Symbol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -575,14 +548,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsu/secondlab/entity/Symbol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsu/secondlab/entity/Word.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        <state relative-caret-position="257">
+          <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
           <folding>
             <element signature="e#239#240#0" expanded="true" />
             <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
           </folding>
         </state>
       </provider>

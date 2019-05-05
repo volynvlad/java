@@ -30,7 +30,7 @@ public class ConsumingHomeElectricalApplicationComparatorTest {
         HomeElectricalApplication application2 = creator2.createHomeElectricalApplication();
 
         int result = comparator.compare(application1, application2);
-        int expected = 1;
+        int expected = 145;
 
         Assert.assertEquals(result, expected);
     }
