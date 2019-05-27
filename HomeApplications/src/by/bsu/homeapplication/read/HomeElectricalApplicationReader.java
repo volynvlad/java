@@ -19,7 +19,6 @@ public class HomeElectricalApplicationReader {
         try {
             Stream<String> lines = Files.lines(Paths.get(path));
             strings = lines.collect(Collectors.toCollection(LinkedList::new));
-
         } catch (IOException e) {
             LOGGER.log(Level.FATAL, e);
             e.printStackTrace();
