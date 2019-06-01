@@ -6,6 +6,13 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**Вариант С
+ * При выполнении следующих заданий для вывода результатов создавать но-
+ * вую директорию и файл средствами класса File.
+ * 3. Прочитать текст Java-программы и записать в другой файл в обратном по-
+ * рядке символы каждой строки.
+ */
+
 public class Main {
     public static void main(String[] args) {
         FileReader inputFile;
