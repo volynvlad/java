@@ -71,8 +71,6 @@ public class Patient extends Person {
         this.diagnosis = diagnosis;
     }
 
-
-
     public void display() {
         System.out.println("Id patient:              " + idPatient);
         System.out.printf("Name:                    %s\n", name);

@@ -27,7 +27,6 @@ public class Car extends Entity implements Runnable {
                 if (parkingResult) {
                     parkingAttempt = 0;
                 } else {
-
                     // Waiting for free space
                     parkingAttempt++;
                     TimeUnit.MILLISECONDS.sleep(MAX_WAIT_TIME);
