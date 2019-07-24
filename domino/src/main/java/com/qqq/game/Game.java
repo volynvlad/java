@@ -145,6 +145,12 @@ public class Game {
         return null;
     }
 
+    private void printScore(Room room) {
+        for(Player player : room.getPlayers()) {
+            System.out.println(player.getLogin() + " : "+ player.getScore());
+        }
+    }
+
     public void game(Room room) throws StorageException, IncorrectValueException {
 
 
@@ -154,6 +160,7 @@ public class Game {
             System.out.println("find player with first move");
             int nPlayers = room.getNumberOfPlayers();
             System.out.println("get number of players");
+            roundRunning = true;
 
             while (roundRunning) {
 
@@ -224,11 +231,12 @@ public class Game {
                         }
                     }
                     room.getPlayers().get(iTemp).addScore(sum);
+                    printScore(room);
                     break;
                 }
 
                 updageAvailable(room);
-                if (!isAvailable(room) || room.getTable().isEmpty()) {
+                if (!isAvailable(room)) {
                     roundRunning = false;
                     int sum = room.getPlayers().get(0).getSum();
                     int iTemp = 0;
@@ -255,6 +263,7 @@ public class Game {
                 gameRunning = false;
                 System.out.println("winner - " + Objects.requireNonNull(winner(room)).getLogin());
             }
+            room.createAndShuffleBank();
         }
     }
 }
