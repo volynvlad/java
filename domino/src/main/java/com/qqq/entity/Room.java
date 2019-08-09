@@ -133,6 +133,10 @@ public class Room {
             return dominos.isEmpty();
         }
 
+        public void clear() {
+            dominos.clear();
+        }
+
         public void addFirstDomino(Domino domino) throws IncorrectValueException {
             if (isEmpty()) {
                 dominos.addLast(domino);

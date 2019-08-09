@@ -180,4 +180,8 @@ public class Player extends User {
         }
         return sum;
     }
+
+    public void clear() {
+        hand.clear();
+    }
 }

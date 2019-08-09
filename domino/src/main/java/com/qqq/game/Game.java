@@ -167,15 +167,10 @@ public class Game {
                 room.getPlayers().get(nPlayer).changedMoving();
                 System.out.println("=====================================");
 
-                while (!room.getPlayers().get(nPlayer).hasAvailable()) {
-                    room.getPlayers()
-                            .get(nPlayer)
-                            .addDomino(room
-                            .getDominoBank()
-                            .takeFirstDomino());
-                    updageAvailable(room);
+                for(Player player : room.getPlayers()) {
+                    System.out.println(player.handToString());
                 }
-                System.out.println(room.getPlayers().get(nPlayer).handToString());
+                System.out.println(room.getPlayers().get(nPlayer).getLogin() + " turn");
                 System.out.println("choose domino to put on the table: ");
                 Scanner choose = new Scanner(System.in);
                 int chooseNum = choose.nextInt();
@@ -235,6 +230,11 @@ public class Game {
                     break;
                 }
 
+                if (room.getDominoBank().isBankEmpty()) {
+                    roundRunning = false;
+                    continue;
+                }
+
                 updageAvailable(room);
                 if (!isAvailable(room)) {
                     roundRunning = false;
@@ -252,11 +252,24 @@ public class Game {
                         }
                     }
                     room.getPlayers().get(iTemp).addScore(sum);
-                    break;
+                    continue;
                 }
 
                 room.getPlayers().get(nPlayer).changedMoving();
                 nPlayer = (nPlayer + 1) % nPlayers;
+                while (!room.getPlayers().get(nPlayer).hasAvailable()) {
+                    room.getPlayers()
+                            .get(nPlayer)
+                            .addDomino(room
+                                    .getDominoBank()
+                                    .takeFirstDomino());
+                    updageAvailable(room);
+                }
+            } // round running end
+
+            room.getTable().clear();
+            for (Player player : room.getPlayers()) {
+                player.clear();
             }
 
             if (haveWinner(room)) {

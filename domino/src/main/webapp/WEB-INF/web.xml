@@ -4,9 +4,11 @@
 
 <web-app>
   <servlet>
+    <servlet-name>servlet-domino</servlet-name>
+    <servlet-class>com.qqq.servlet.MainServlet</servlet-class>
     <description>my servlet</description>
     <display-name>servlet-domino</display-name>
-    <servlet-name>servlet-domino</servlet-name>
+
     <jsp-file>/index.jsp</jsp-file>
   </servlet>
 
@@ -19,5 +21,11 @@
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
+
+  <context-param>
+    <param-name>administrator</param-name>
+    <param-value>volynvlad@gmail.com</param-value>
+  </context-param>
+
 
 </web-app>
