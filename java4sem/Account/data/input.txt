@@ -1,0 +1,6 @@
+id=1; type=REMOVAL; time=9 0 14 0 15 0 18 30 17; sum=200
+id=2; type=RECEIPT; time=1 0 14 0 15 0 18 30 18; sum=120
+id=3; type=PAYMENT; time=1 0 14 0 15 0 18 30 19; sum=60
+id=4; type=REMOVAL; time=8 0 14 0 15 0 18 30 20; sum=70
+id=5; type=PAYMENT; time=5 0 14 0 15 0 18 30 21; sum=150.32
+id=6; type=RECEIPT; time=3 0 14 0 15 0 18 30 22; sum=28

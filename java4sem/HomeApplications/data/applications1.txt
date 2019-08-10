@@ -1,0 +1,2 @@
+type=fridge id=1 name=atlant producer=belarus electricalconsuming=200 connected=connected
+type=router id=2 name=samsung producer=china electricalconsuming=55 connected=connected
